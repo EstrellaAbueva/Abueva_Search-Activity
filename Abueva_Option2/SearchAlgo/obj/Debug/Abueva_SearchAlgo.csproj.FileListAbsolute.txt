@@ -31,3 +31,14 @@ C:\Users\Ella\Documents\THIRD YEAR\CS345\assignment\Abueva_Search-Activity\Abuev
 C:\Users\Ella\Documents\THIRD YEAR\CS345\assignment\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\Abueva_SearchAlgo.csproj.CoreCompileInputs.cache
 C:\Users\Ella\Documents\THIRD YEAR\CS345\assignment\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\SearchAlgo.exe
 C:\Users\Ella\Documents\THIRD YEAR\CS345\assignment\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\SearchAlgo.pdb
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\bin\Debug\SearchAlgo.exe.config
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\bin\Debug\SearchAlgo.exe
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\bin\Debug\SearchAlgo.pdb
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\Abueva_SearchAlgo.csproj.AssemblyReference.cache
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\Abueva_SearchAlgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\SearchAlgo.Form1.resources
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\SearchAlgo.Properties.Resources.resources
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\Abueva_SearchAlgo.csproj.GenerateResource.cache
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\Abueva_SearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\SearchAlgo.exe
+C:\Users\Ella\Desktop\Abueva_Search-Activity\Abueva_Option2\SearchAlgo\obj\Debug\SearchAlgo.pdb
